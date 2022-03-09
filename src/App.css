@@ -50,11 +50,11 @@ header > h1{
 }
 
 header > p{
-  width: 680px;
+  max-width: 680px;
   text-align: center;
   margin: auto;
   font-size: 1.2em;
-  margin-bottom: 20px;
+  padding-bottom: 30px;
   font-weight: bold;
   text-shadow: var(--sombra);
 }
